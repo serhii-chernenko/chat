@@ -4,6 +4,12 @@ Bring your own API keys and pay only for what you used.
 
 Project board is available [here](https://github.com/users/serhii-chernenko/projects/5).
 
+# IMPORTANT
+
+The chat has been renamed to [Besidka](https://www.besidka.com) and moved to another repo and domain:
+- https://github.com/besidka/besidka
+- https://www.besidka.com
+
 ## How to try?
 
 1. You are welcome to visit the production site [www.chernenko.chat](https://www.chernenko.chat).
